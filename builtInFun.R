@@ -1,0 +1,15 @@
+max(1.2,3.4,-7.5)
+min(1.2,3.4,-7.5)
+abs(4.5)
+sqrt(16)
+round(4.5)
+floor(4.3)
+ceiling(4.3)
+sin(45)
+sum(2,3)
+prod(4,5)
+log(1)
+abs(c(-1,-4,-7,-9))
+sqrt(c(9,16))
+
+     
